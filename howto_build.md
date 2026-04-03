@@ -1,6 +1,6 @@
 build
 ```bash
-cargo build
+cargo bootimage
 ```
 run
 ```bash

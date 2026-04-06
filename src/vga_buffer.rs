@@ -40,7 +40,7 @@ struct ScreenChar {
 const BUFFER_HEIGHT: usize = 25;
 const BUFFER_WIDTH: usize = 80;
 
-use core::fmt;
+use ::core::fmt;
 
 use volatile::Volatile;
 

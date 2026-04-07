@@ -27,3 +27,7 @@ features = ["spin_no_std"]
 name = "learn_blog_os"
 test = true
 bench = false
+
+[[test]]
+name = "should_panic"
+harness = false
